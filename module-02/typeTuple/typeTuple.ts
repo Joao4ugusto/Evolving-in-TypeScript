@@ -35,6 +35,5 @@ type name = | [firstName: string, surname: string]
 function cratePerson(... name: name){
    return [... name];
 }
-
 console.log(cratePerson('João', 'Oliveira'));
 console.log(cratePerson('João',  'Augusto', 'Oliveira'));
