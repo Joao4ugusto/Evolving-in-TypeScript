@@ -1,4 +1,4 @@
-# Evolving in TypeScript!📘🐈‍⬛
+# Evolving in TypeScript!🐈‍⬛
 
 <p align="center">
  <img src="banner.svg" alt="Banner">
