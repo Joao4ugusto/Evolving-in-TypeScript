@@ -11,5 +11,12 @@ console.log(result1);
 let frase; // Type Any default
 frase = 'Hi, I am from João';
 
-// Example 03 --> 
+// Example 03 --> When should we use type any
 
+const forms: {[campForm: string]: any} = {
+  name: 'João',
+  surname: 'Oliveira',
+  age: 20
+}
+
+console.log(forms);
