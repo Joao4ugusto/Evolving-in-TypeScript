@@ -6,4 +6,9 @@ function discount(price, discount = 0.08) {
 }
 ;
 console.log(discount(100));
-// Example 02 --> 
+// Example 02 --> Default parameters
+function displayName(name, surname = 'Oliveira') {
+    return name + ' ' + surname;
+}
+;
+console.log(displayName('João'));
