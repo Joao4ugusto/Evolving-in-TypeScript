@@ -21,7 +21,6 @@ function onboarding02(person) {
         ' your role here will be ' +
         person.function);
 }
-console.log(onboarding02({ name: 'João', function: 'Developer' }));
 function onboarding03(person) {
     return 'welcome ' +
         person.name +

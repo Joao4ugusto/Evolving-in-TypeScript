@@ -35,7 +35,7 @@ function onboarding02(person: Person){
    )
 }
 
-console.log(onboarding02({name: 'João', function: 'Developer'}));
+// console.log(onboarding02({name: 'João', function: 'Developer'}));
 
 // Example 04 --> object as type alias
 
