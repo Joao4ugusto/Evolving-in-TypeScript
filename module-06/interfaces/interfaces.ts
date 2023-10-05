@@ -83,7 +83,7 @@ const cat = new Cat('Totó', 10, true);
 console.log(cat);
 cat.eat('portion');
 
-// ==> Exemplo 05: Interfaces vs Alias Type
+// Exemplo 05 --> Interfaces vs Alias Type
 
 interface person_02 {
   name: string;
