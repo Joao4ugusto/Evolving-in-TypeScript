@@ -86,4 +86,4 @@ const developer_02: Developer_02 = {
   programminglanguag: 'JavaScript',
 }
 
-console.log(developer_02)
+console.log(developer_02);
