@@ -11,5 +11,4 @@ console.log((name as string).toUpperCase());
 const Car = 'Gol';
 
 const sizeString: number = (<string>Car).length;
-console.log(sizeString)
-
+console.log(sizeString);
