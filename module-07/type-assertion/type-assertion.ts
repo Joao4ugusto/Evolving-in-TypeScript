@@ -3,7 +3,6 @@ export{}
 
 function displayFinalPrice(price: number, discount: number, format: boolean): number | string  {
    const pricewithDiscount = price * (1 - discount);
-
    return format ? `R$ ${pricewithDiscount}` : pricewithDiscount;
 }
 
