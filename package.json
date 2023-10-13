@@ -1,0 +1,23 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "<p align=\"center\">\r  <img src=\"banner.svg\" alt=\"Banner\">\r </p>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joao4ugusto/Evolving-in-TypeScript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Joao4ugusto/Evolving-in-TypeScript/issues"
+  },
+  "homepage": "https://github.com/Joao4ugusto/Evolving-in-TypeScript#readme",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}

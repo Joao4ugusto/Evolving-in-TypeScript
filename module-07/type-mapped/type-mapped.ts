@@ -57,6 +57,4 @@ const livro: LivroModelo = {
   preco: 19.99,
   titulo: 'Programming Typescript: Making Your JavaScript Applications Scale'
 }
-
 // livro.autor = "João Oliveira"
-
