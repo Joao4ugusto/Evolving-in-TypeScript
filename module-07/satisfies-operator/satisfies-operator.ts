@@ -49,6 +49,5 @@ const config = {
 
 function connect() {
   let { host, port, tryReconnect } = config;
-
   createConnection(host, `${port}`, tryReconnect(), 10);
 }
