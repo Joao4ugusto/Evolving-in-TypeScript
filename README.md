@@ -1,9 +1,5 @@
 # Evolving in TypeScript!🐈‍⬛
 
-<p align="center">
- <img src="banner.svg" alt="Banner">
-</p>
-
 This repository contains information and examples related to the study and evolution in the usage of TypeScript. TypeScript is a programming language that extends JavaScript by adding features like static typing, interfaces, and other tools that enhance the robustness and scalability of projects. In this document, we will cover the main topics studied during this journey of evolution.
 
 ## Covered Topics
