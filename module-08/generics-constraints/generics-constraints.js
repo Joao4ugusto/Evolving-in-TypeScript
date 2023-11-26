@@ -33,23 +33,3 @@ console.log(pessoa4);
 );
 
 console.log(pessoa5);*/
-// Example 01 --> 
-class Uri {
-    alunos;
-    professores;
-    constructor(aluno, professores) {
-        this.alunos = aluno;
-        this.professores = professores;
-    }
-    setDados(alunos, professores) {
-        this.alunos = alunos;
-        this.professores = professores;
-    }
-    getDados() {
-        return `
-    ${this.alunos} and ${this.professores}
-    `;
-    }
-}
-const UriCap2 = new Uri('João', 'Paulo');
-console.log(UriCap2.getDados);
