@@ -1,0 +1,10 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+const validators_1 = require("./validators");
+let email = 'joaoaugusto311016@gmail.com';
+let validator = new validators_1.EmailValidator();
+let result = validator.isValid(email);
+console.log(`O e-mail ${email} é válido? ${result}`);
+let validator2 = new validators_1.ZipCodeValidator();
+let result2 = validator2.isValid('98870000');
+console.log(`O CEP 98870000 é válido? ${result2}`);
